@@ -17,7 +17,7 @@ export ANDROID_NDK_VERSION_DEFAULT="22.1.7171670"
 
 ```shell
 # 定义 harmony sdk路径
-export HMOS_SDK_PATH="$HOME/Workspace/Huawei/sdk/HarmonyOS-NEXT-DP1"
+export HMOS_SDK_PATH="/Applications/DevEco-Studio.app/Contents/sdk/default"
 ```
 
 platform_profile 中定义了3个函数

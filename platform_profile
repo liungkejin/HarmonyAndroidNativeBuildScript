@@ -9,7 +9,7 @@ export ANDROID_NDK_VERSION_DEFAULT="22.1.7171670"
 
 ############################# HarmonyOS 环境配置 #############################
 #export HMOS_SDK_PATH="$HOME/Workspace/Huawei/sdk/HarmonyOS-NEXT-DP2"
-export HMOS_SDK_PATH="/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB3"
+export HMOS_SDK_PATH="/Applications/DevEco-Studio.app/Contents/sdk/default"
 
 # Android cmake
 android_cmake() {
