@@ -1,4 +1,5 @@
-# NativeLibsBuildScript
+# HarmonyAndroidNativeBuildScript
+
 提供常见开源(C/C++)库针对 Android/HarmonyOS 等平台的一键编译脚本
 
 ## 使用方法

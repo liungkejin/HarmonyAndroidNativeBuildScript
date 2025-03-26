@@ -1,4 +1,5 @@
 libyuv/libyuv*
 opencv/opencv*
 libfmt/fmt*
+libhv/libhv*
 .DS_Store
