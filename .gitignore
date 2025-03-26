@@ -2,4 +2,5 @@ libyuv/libyuv*
 opencv/opencv*
 libfmt/fmt*
 libhv/libhv*
+tensorflow/tensorflow*
 .DS_Store
